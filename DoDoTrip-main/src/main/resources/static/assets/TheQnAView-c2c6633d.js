@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as r,c,a as n,b as s}from"./index-e633fb4b.js";const a={},_={class:"container text-center mt-3"},i=s("div",{class:"alert alert-info",role:"alert"},"QnA 게시판",-1);function l(d,f){const e=o("router-view");return r(),c("div",_,[i,n(e)])}const p=t(a,[["render",l]]);export{p as default};
